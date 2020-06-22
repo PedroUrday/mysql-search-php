@@ -1,0 +1,7 @@
+{
+    "require": {
+        "voku/portable-utf8": "^5.4",
+        "wamania/php-stemmer": "^2.1",
+        "voku/stop-words": "^2.0"
+    }
+}
